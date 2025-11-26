@@ -81,24 +81,37 @@ Data-backed recommendations helping policymaking
 
 ## How the Solution Addresses the Problem
 Converts complex biosecurity standards into easy digital tasks
+
 Provides continuous monitoring instead of one-time inspections
+
 Trains farmers through accessible content
+
 Gives instant alerts to reduce outbreak impact
+
 Improves transparency between farmers and authorities
+
 Enables better decision-making using real-time data analytics
 
 ## Innovation and Uniqueness
+
 AI-enhanced biosecurity scoring using farm activity patterns
+
 Geo-fencing of farms for region-specific disease warnings
+
 Gamified learning, awarding badges for completed modules
+
 Offline-first mode for rural connectivity
+
 Voice guidance for farmers who struggle with reading
+
 Automatic compliance calendar, unique to each farm type
+
 This provides a modern, practical, farmer-first approach.
 
 ## Technical Approach
 ## Frontend
 Flutter / React Native for mobile
+
 React.js for web dashboard
 
 ## Backend
@@ -110,20 +123,29 @@ Redis for caching alerts and notifications
 
 ## Cloud & Hosting
 AWS EC2 / Lambda for backend
+
 S3 for media content storage
+
 Firebase Cloud Messaging for push alerts
 
 ## AI & Analytics
 Python-based models for risk scoring and outbreak prediction
+
 GIS tools for mapping biosecurity hotspots
 
 ## Development Methodology
 Requirement gathering & field studies
+
 UI/UX prototyping and farmer usability testing
+
 Development of risk scoring and compliance modules
+
 Integration of alert engine and multilingual interface
+
 GIS mapping and analytics integration
+
 Pilot testing with actual farms
+
 Deployment + refinement based on feedback
 
 
@@ -131,17 +153,23 @@ Deployment + refinement based on feedback
 
 ## Technical Feasibility
 All technologies are mature and widely used
+
 Easily scalable to multiple states
+
 Mobile-first design ensures wide adoption
 
 ## Potential Challenges
 Farmers may not be familiar with digital platforms
+
 Network issues in interior rural regions
+
 Hesitation to share data
 
 ## Strategies to Overcome Challenges
 Voice-guided usage tutorials inside the app
+
 Local data storage + sync when internet is available
+
 Strong security (AES encryption, role-based access)
 
 
@@ -149,18 +177,25 @@ Strong security (AES encryption, role-based access)
 
 ## Impact
 Lower disease outbreaks in poultry and pig farms
+
 Data-based surveillance for government departments
+
 Higher productivity, lower mortality
+
 Economic stability for small farmers
 
 ## Benefits
 Social: Better awareness, strong collaboration
+
 Economic: Prevents economic losses caused by diseases
+
 Environmental: Better waste handling, reduced chemical overuse
 
 ## Research and References
 OIE Biosecurity and Animal Health Standards
+
 FAO Digital Livestock Management Tools
+
 Government of India guidelines on Pig and Poultry Biosecurity
 Academic research on predictive epidemiology and farm management
 
